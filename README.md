@@ -54,3 +54,17 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiZakiXD&hide=css,html&theme=tokyonight)
 
+
+<div align="center">
+
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+
+ 
+
+ <div align="left">
+
+  
+
+  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
+
+
