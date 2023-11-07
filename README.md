@@ -4,6 +4,14 @@
 ```- 💞️ I’m looking to collaborate on ...```
 ```- 📫 How to reach me ...```
 
+<import datetime>
+<import time>
+
+<while True:>
+    <now = datetime.datetime.now()>
+    <print(now.strftime("%H:%M:%S"), end="\r")>
+    <time.sleep(1)>
+
 <!---
 JanithaChathuranga/JanithaChathuranga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
